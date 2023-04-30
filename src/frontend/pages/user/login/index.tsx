@@ -7,7 +7,7 @@ import Background from '../../../public/assets/img/background.png'
 
 const Login: NextPage = () => {
   return (
-    <>test
+    <>test2
     <div>
       <Image
         alt="Mountains"
